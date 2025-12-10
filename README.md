@@ -1,0 +1,1 @@
+First html project of Pritam. The code for a simple website based on chess.
